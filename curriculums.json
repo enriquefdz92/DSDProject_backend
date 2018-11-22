@@ -1,0 +1,87 @@
+
+   [ {
+    "id":"1",
+    "name":     "Enrique", 
+    "lastname": "Fernández", 
+    "career":   "CPLM Developer",
+    "home": "Mexicali, Mex",
+    "email":    "enrique.fernandez@Gulfstream.com", 
+    "phone":    "+52 686 273 2115",
+    "picture": "images/enriquefernandez.jpg",
+    "Skills": [
+        {"name" : "Front End Development", "domain" : 90},
+        {"name" : "Back End Development",  "domain" : 95},
+        {"name" : "Photoshop",             "domain" : 75},
+        {"name" : "Agile",                 "domain" : 80}
+    ],
+    "Languages" :[
+        {"languaje" : "Spanish",  "domain" : 100},
+        {"languaje" : "English",  "domain" : 95},
+        {"languaje" : "Japanese", "domain" : 80},
+        {"languaje" : "German", "domain" : 20}
+    ] ,
+    "WorkExp" :[
+        {"title" : "CPLM Developer",  "location" : "Gulfstream Aerospace",       "from" : "May 2017", "to" : "Current"},
+        {"title" : "IT Engineer",     "location" : "Interiores Aereos SA de CV", "from" : "Ago 2016", "to" : "May 2017"},
+        {"title" : "Student Program", "location" : "Interiores Aereos SA de CV", "from" : "Mar 2015", "to" : "Ago 2016"}
+    ]  ,
+    "Education":[
+        {"title" : "Master of Engineering and Innovation", "school" : "Cetys University" , "from" : "2018", "to" : "Current"},
+        {"title" : "Mechatronics Engineer", "school" : "Autonomous University of Baja California" , "from" : "2013", "to" : "2015"},
+        {"title" : "Mechatronics Technician", "school" : "Technological and Industrial Baccalaureate Center 21" , "from" : "2010", "to" : "2013"}
+    ]
+} ,
+{
+    "id":"2",
+    "name":     "Elizabeth",
+    "lastname": "Montoya",
+    "career":   "CPLM Developer",
+    "email":    "elizabeth.montoya@Gulfstream.com",
+    "phone":    "+52 686 2885782",
+    "picture": "images/elizabethmontoya.jpg",
+    "Skills": [
+        {"name" : "Front End Development", "domain" : 90},
+        {"name" : "Back End Development",  "domain" : 95}
+    ],
+    "Languages" :[
+        {"languaje" : "Spanish",  "domain" : 100},
+        {"languaje" : "English",  "domain" : 95}
+    ] ,
+    "WorkExp" :[
+        {"title" : "CPLM Developer",  "location" : "Gulfstream Aerospace",       "from" : "Ago 2017", "to" : "Current"},
+        {"title" : "CPLM Analisty",     "location" : "Interiores Aereos SA de CV", "from" : "Mar 2015", "to" : "Ago 2017"},
+        {"title" : "Electrial Planner Engineer", "location" : "Interiores Aereos SA de CV", "from" : "Apr 2013", "to" : "Mar 2015"}
+    ]  ,
+    "Education":[
+        {"title" : "Master of Engineering and Innovation", "school" : "Cetys University" , "from" : "2017", "to" : "Current"},
+        {"title" : "Computer Systems Engineer", "school" : "Autonomous University of Baja California" , "from" : "2005", "to" : "2009"},
+        {"title" : "Analyst and Systems Programmer", "school" : "COBACH" , "from" : "2002", "to" : "2005"}
+    ]
+ },
+ {
+    "id":"3",
+    "name":     "Oscar",
+    "lastname": "Rosete",
+    "career":   "Full stack Developer",
+    "email":    "oscar.rosete@cetys.edu.mx",
+    "phone":    "+52 686 2645073",
+    "picture": "images/oscarrosete.jpg",
+    "Skills": [
+        {"name" : "Front End Development", "domain" : 90},
+        {"name" : "Back End Development",  "domain" : 90}
+    ],
+    "Languages" :[
+        {"languaje" : "Spanish",  "domain" : 100},
+        {"languaje" : "English",  "domain" : 80},
+        {"languaje" : "Italian",  "domain" : 50}
+    ] ,
+    "WorkExp" :[
+        {"title" : "Full Stack Developer",  "location" : "Astradev",       "from" : "Jul 2017", "to" : "Current"},
+        {"title" : "Maintenance Engineering Coordinator","location" : "Pepsico", "from" : "Sep 2013", "to" : "Jul 2016"},
+        {"title" : "Failure Analysis Engineer", "location" : "Skyworks", "from" : "Dec 2012", "to" : "Sep 2013"}
+    ]  ,
+    "Education":[
+        {"title" : "Master of Engineering and Innovation", "school" : "Cetys University" , "from" : "2017", "to" : "Current"},
+        {"title" : "Mechatronics Engineer", "school" : "Autonomous University of Baja California" , "from" : "2010", "to" : "2014"}
+    ]
+ }]
